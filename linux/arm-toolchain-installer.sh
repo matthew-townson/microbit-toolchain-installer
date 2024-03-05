@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "=======================================================================
-_     arm toolchain installer script for micro:bit systems
+           _     arm toolchain installer script for micro:bit systems
           | |                                                          
  _ __ ___ | |_ _____      ___ __  ___  ___  _ __    ___ ___  _ __ ___  
 | '_ ' _ \| __/ _ \ \ /\ / | '_ \/ __|/ _ \| '_ \  / __/ _ \| '_ ' _ \ 
